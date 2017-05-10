@@ -7,6 +7,7 @@ import org.springframework.boot.SpringApplication;
 public class StandaloneApp {
 
 	public static void main(String[] args) throws Exception {
+		// comment
 		SpringApplication.run(RestServiceImpl.class, args);
 	}
 }
